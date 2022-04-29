@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'leads.apps.LeadsConfig',
     'rest_framework',
     'bobo.apps.BoboConfig',
+    'mama.apps.MamaConfig',
 
 ]
 
