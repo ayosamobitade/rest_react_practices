@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'bobo.apps.BoboConfig',
     'mama.apps.MamaConfig',
+    
 
 ]
 
